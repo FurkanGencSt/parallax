@@ -1,0 +1,24 @@
+.top-div {
+  background-color: #f8931f;
+}
+.parallax {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-size: 14rem;
+  position: absolute;
+}
+.parallax-images {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+hr {
+  color: black;
+}
